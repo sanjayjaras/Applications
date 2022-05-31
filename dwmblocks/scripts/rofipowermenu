@@ -1,0 +1,3 @@
+#!/bin/bash
+rofi -show power-menu -modi power-menu:~/Applications/rofi-power-menu/rofi-power-menu -theme "fancy"  -font "hack 15"
+#Pop-Dark

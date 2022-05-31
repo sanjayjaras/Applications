@@ -1,0 +1,3 @@
+#!/bin/bash
+rofi -modi combi -combi-modi window,drun,run -theme "fancy" -font "hack 15" -show combi -icon-theme "WhiteSur" -show-icons -theme-str 'element-icon { size: 3.0ch;}'
+#Pop-Dark
